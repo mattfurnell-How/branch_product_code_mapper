@@ -10,7 +10,7 @@ USE_LOCAL_DATA = False  # Always False since you're using live APIs
 PRODUCT_API_URL = "https://api.aplan.co.uk/api/producttypecodeitems"
 BRANCH_API_URL = "https://api.aplan.co.uk/api/branches?includeNonLocalBranches=true&includeNonTradingBranches=true"
 
-st.set_page_config(page_title="Branch & Product Code Mapper", layout="wide")
+st.set_page_config(page_title="Branch & ProductCode Mapper", layout="wide")
 
 # ----------------------------------
 # SIMPLE INLINE STYLING
