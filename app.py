@@ -53,7 +53,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("🏢 Branch & ProductCode Mapper")
+st.title("🏢 Branch & Product Code Mapper")
 
 # ----------------------------------
 # FETCH DATA
