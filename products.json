@@ -1,0 +1,7 @@
+[
+    {"product_code": "MODV", "product_name": "Modified Vehicle Insurance"},
+    {"product_code": "HOME", "product_name": "Home Insurance"},
+    {"product_code": "TRAV", "product_name": "Travel Insurance"},
+    {"product_code": "BIKE", "product_name": "Motorbike Insurance"}
+  ]
+  

@@ -1,0 +1,17 @@
+[
+    {
+      "branch_name": "Thatcham Commercial",
+      "branch_manager": "Jane Doe",
+      "address": "12 High Street, Thatcham",
+      "opening_hours": "Mon–Fri 9am–5pm",
+      "product_codes": "MODV, HOME, TRAV"
+    },
+    {
+      "branch_name": "Reading Central",
+      "branch_manager": "John Smith",
+      "address": "21 Broad St, Reading",
+      "opening_hours": "Mon–Sat 9am–6pm",
+      "product_codes": "MODV, BIKE"
+    }
+  ]
+  

@@ -1,0 +1,17 @@
+.stApp {
+    background-color: #888f63;
+}
+
+h1, h2, h3 {
+    color: #b9d9eb;
+    font-family: 'Poppins', sans-serif;
+}
+
+section[data-testid="stSidebar"] {
+    background-color: #cefdc9;
+}
+
+p, div, label {
+    font-family: 'Open Sans', sans-serif;
+    color: #1a1a1a;
+}
